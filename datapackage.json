@@ -166,7 +166,7 @@
       "value": {
         "Town": "Connecticut",
         "Year": ["2012-2016"],
-        "Business Type": ["Self-Employed, Incorporated", "Self-Employed, Not Incorporated"],
+        "Business Type": ["Total", "Self-Employed, Incorporated", "Self-Employed, Not Incorporated"],
         "Variable": "Employment"
       },
       "type": "object"
